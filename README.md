@@ -37,6 +37,7 @@ python lessons/day01_qubit_superposition.py
 | 04 | 兩個 qubit、張量積與位元順序 | `lessons/day04_tensor_product.py` |
 | 05 | 量子糾纏與 Bell state | `lessons/day05_bell_entanglement.py` |
 | 06 | 量測、投影與量子態塌縮 | `lessons/day06_measurement_collapse.py` |
+| 07 | 密度矩陣、量子 coherence 與古典混合 | `lessons/day07_density_matrix.py` |
 
 ## 命名慣例
 
@@ -47,4 +48,3 @@ lessons/dayNN_topic_name.py
 ```
 
 每個檔案可獨立執行，並印出量子電路、statevector、機率或量測結果。
-
