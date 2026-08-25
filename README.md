@@ -38,6 +38,7 @@ python lessons/day01_qubit_superposition.py
 | 05 | 量子糾纏與 Bell state | `lessons/day05_bell_entanglement.py` |
 | 06 | 量測、投影與量子態塌縮 | `lessons/day06_measurement_collapse.py` |
 | 07 | 密度矩陣、量子 coherence 與古典混合 | `lessons/day07_density_matrix.py` |
+| 08 | 量子雜訊、Kraus operators 與 phase damping | `lessons/day08_phase_damping.py` |
 
 ## 命名慣例
 
