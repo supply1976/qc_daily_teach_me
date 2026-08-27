@@ -40,6 +40,7 @@ python lessons/day01_qubit_superposition.py
 | 07 | 密度矩陣、量子 coherence 與古典混合 | `lessons/day07_density_matrix.py` |
 | 08 | 量子雜訊、Kraus operators 與 phase damping | `lessons/day08_phase_damping.py` |
 | 09 | 單 qubit 量子態斷層掃描 | `lessons/day09_single_qubit_tomography.py` |
+| 10 | 部分跡、約化密度矩陣與糾纏熵 | `lessons/day10_partial_trace_entanglement.py` |
 
 ## 命名慣例
 
