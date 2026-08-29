@@ -42,6 +42,7 @@ python lessons/day01_qubit_superposition.py
 | 09 | 單 qubit 量子態斷層掃描 | `lessons/day09_single_qubit_tomography.py` |
 | 10 | 部分跡、約化密度矩陣與糾纏熵 | `lessons/day10_partial_trace_entanglement.py` |
 | 11 | Schmidt decomposition、SVD 與糾纏強度 | `lessons/day11_schmidt_decomposition.py` |
+| 12 | CHSH inequality、Bell nonlocality 與有限 shots | `lessons/day12_chsh_inequality.py` |
 
 ## 命名慣例
 
