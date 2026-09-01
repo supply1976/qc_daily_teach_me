@@ -45,6 +45,7 @@ python lessons/day01_qubit_superposition.py
 | 12 | CHSH inequality、Bell nonlocality 與有限 shots | `lessons/day12_chsh_inequality.py` |
 | 13 | 量子隱形傳態、條件分支與 fidelity | `lessons/day13_quantum_teleportation.py` |
 | 14 | 量子超密編碼、Bell basis 與兩個 classical bits | `lessons/day14_superdense_coding.py` |
+| 15 | Bernstein–Vazirani、phase kickback 與 hidden string | `lessons/day15_bernstein_vazirani.py` |
 
 ## 命名慣例
 
