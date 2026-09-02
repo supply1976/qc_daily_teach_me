@@ -46,6 +46,7 @@ python lessons/day01_qubit_superposition.py
 | 13 | 量子隱形傳態、條件分支與 fidelity | `lessons/day13_quantum_teleportation.py` |
 | 14 | 量子超密編碼、Bell basis 與兩個 classical bits | `lessons/day14_superdense_coding.py` |
 | 15 | Bernstein–Vazirani、phase kickback 與 hidden string | `lessons/day15_bernstein_vazirani.py` |
+| 16 | 量子傅立葉轉換、相位梯度與 inverse QFT | `lessons/day16_quantum_fourier_transform.py` |
 
 ## 命名慣例
 
