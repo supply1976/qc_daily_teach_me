@@ -47,6 +47,7 @@ python lessons/day01_qubit_superposition.py
 | 14 | 量子超密編碼、Bell basis 與兩個 classical bits | `lessons/day14_superdense_coding.py` |
 | 15 | Bernstein–Vazirani、phase kickback 與 hidden string | `lessons/day15_bernstein_vazirani.py` |
 | 16 | 量子傅立葉轉換、相位梯度與 inverse QFT | `lessons/day16_quantum_fourier_transform.py` |
+| 17 | 量子相位估計、controlled powers 與 eigenphase | `lessons/day17_quantum_phase_estimation.py` |
 
 ## 命名慣例
 
