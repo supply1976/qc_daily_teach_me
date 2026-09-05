@@ -49,6 +49,7 @@ python lessons/day01_qubit_superposition.py
 | 16 | 量子傅立葉轉換、相位梯度與 inverse QFT | `lessons/day16_quantum_fourier_transform.py` |
 | 17 | 量子相位估計、controlled powers 與 eigenphase | `lessons/day17_quantum_phase_estimation.py` |
 | 18 | QPE spectral measurement、eigenstate projection 與 entropy | `lessons/day18_qpe_spectral_measurement.py` |
+| 19 | Hamiltonian time evolution、Larmor precession 與守恆量 | `lessons/day19_hamiltonian_time_evolution.py` |
 
 ## 命名慣例
 
