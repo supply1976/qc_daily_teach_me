@@ -50,6 +50,7 @@ python lessons/day01_qubit_superposition.py
 | 17 | 量子相位估計、controlled powers 與 eigenphase | `lessons/day17_quantum_phase_estimation.py` |
 | 18 | QPE spectral measurement、eigenstate projection 與 entropy | `lessons/day18_qpe_spectral_measurement.py` |
 | 19 | Hamiltonian time evolution、Larmor precession 與守恆量 | `lessons/day19_hamiltonian_time_evolution.py` |
+| 20 | 非對易 Hamiltonian、Lie–Trotter 與精度—深度取捨 | `lessons/day20_trotterization.py` |
 
 ## 命名慣例
 
