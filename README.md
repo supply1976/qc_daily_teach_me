@@ -51,6 +51,7 @@ python lessons/day01_qubit_superposition.py
 | 18 | QPE spectral measurement、eigenstate projection 與 entropy | `lessons/day18_qpe_spectral_measurement.py` |
 | 19 | Hamiltonian time evolution、Larmor precession 與守恆量 | `lessons/day19_hamiltonian_time_evolution.py` |
 | 20 | 非對易 Hamiltonian、Lie–Trotter 與精度—深度取捨 | `lessons/day20_trotterization.py` |
+| 21 | 二階 Suzuki–Trotter、Ising dynamics 與糾纏熵 | `lessons/day21_suzuki_trotter_ising.py` |
 
 ## 命名慣例
 
