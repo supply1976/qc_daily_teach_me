@@ -53,6 +53,7 @@ python lessons/day01_qubit_superposition.py
 | 20 | 非對易 Hamiltonian、Lie–Trotter 與精度—深度取捨 | `lessons/day20_trotterization.py` |
 | 21 | 二階 Suzuki–Trotter、Ising dynamics 與糾纏熵 | `lessons/day21_suzuki_trotter_ising.py` |
 | 22 | VQE、variational principle 與 parameter-shift gradient | `lessons/day22_vqe_parameter_shift.py` |
+| 23 | 有限 shots、Pauli measurement grouping 與 VQE loss noise | `lessons/day23_finite_shot_vqe.py` |
 
 ## 命名慣例
 
