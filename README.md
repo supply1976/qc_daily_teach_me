@@ -55,6 +55,7 @@ python lessons/day01_qubit_superposition.py
 | 22 | VQE、variational principle 與 parameter-shift gradient | `lessons/day22_vqe_parameter_shift.py` |
 | 23 | 有限 shots、Pauli measurement grouping 與 VQE loss noise | `lessons/day23_finite_shot_vqe.py` |
 | 24 | SPSA、simultaneous perturbation 與 noisy VQE optimization | `lessons/day24_spsa_noisy_vqe.py` |
+| 25 | Barren plateau、global cost 與梯度方差尺度 | `lessons/day25_barren_plateau.py` |
 
 ## 命名慣例
 
