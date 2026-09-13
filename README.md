@@ -57,6 +57,7 @@ python lessons/day01_qubit_superposition.py
 | 24 | SPSA、simultaneous perturbation 與 noisy VQE optimization | `lessons/day24_spsa_noisy_vqe.py` |
 | 25 | Barren plateau、global cost 與梯度方差尺度 | `lessons/day25_barren_plateau.py` |
 | 26 | Quantum natural gradient、QFIM 與 Bloch-sphere 幾何 | `lessons/day26_quantum_natural_gradient.py` |
+| 27 | Quantum Circuit Born Machine、KL loss 與相關分布生成 | `lessons/day27_quantum_circuit_born_machine.py` |
 
 ## 命名慣例
 
