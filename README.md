@@ -59,6 +59,7 @@ python lessons/day01_qubit_superposition.py
 | 26 | Quantum natural gradient、QFIM 與 Bloch-sphere 幾何 | `lessons/day26_quantum_natural_gradient.py` |
 | 27 | Quantum Circuit Born Machine、KL loss 與相關分布生成 | `lessons/day27_quantum_circuit_born_machine.py` |
 | 28 | Sample-based MMD、Hamming kernel 與三 qubit QCBM | `lessons/day28_mmd_qcbm.py` |
+| 29 | Quantum fidelity kernel、Hamming 幾何與 SWAP test | `lessons/day29_quantum_fidelity_kernel.py` |
 
 ## 命名慣例
 
