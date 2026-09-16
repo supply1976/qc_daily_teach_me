@@ -60,6 +60,7 @@ python lessons/day01_qubit_superposition.py
 | 27 | Quantum Circuit Born Machine、KL loss 與相關分布生成 | `lessons/day27_quantum_circuit_born_machine.py` |
 | 28 | Sample-based MMD、Hamming kernel 與三 qubit QCBM | `lessons/day28_mmd_qcbm.py` |
 | 29 | Quantum fidelity kernel、Hamming 幾何與 SWAP test | `lessons/day29_quantum_fidelity_kernel.py` |
+| 30 | Hadamard test、複數 expectation value 與 ancilla 干涉 | `lessons/day30_hadamard_test.py` |
 
 ## 命名慣例
 
