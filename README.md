@@ -62,6 +62,7 @@ python lessons/day01_qubit_superposition.py
 | 29 | Quantum fidelity kernel、Hamming 幾何與 SWAP test | `lessons/day29_quantum_fidelity_kernel.py` |
 | 30 | Hadamard test、複數 expectation value 與 ancilla 干涉 | `lessons/day30_hadamard_test.py` |
 | 31 | Hadamard-test autocorrelation、Fourier spectral function 與能譜 | `lessons/day31_spectral_function.py` |
+| 32 | Quantum Krylov diagonalization、generalized eigenproblem 與 conditioning | `lessons/day32_quantum_krylov.py` |
 
 ## 命名慣例
 
