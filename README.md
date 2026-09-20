@@ -64,6 +64,7 @@ python lessons/day01_qubit_superposition.py
 | 31 | Hadamard-test autocorrelation、Fourier spectral function 與能譜 | `lessons/day31_spectral_function.py` |
 | 32 | Quantum Krylov diagonalization、generalized eigenproblem 與 conditioning | `lessons/day32_quantum_krylov.py` |
 | 33 | Krylov overlap regularization、canonical orthogonalization 與 noisy null space | `lessons/day33_krylov_regularization.py` |
+| 34 | Imaginary-time ground-state filtering 與 variational QITE | `lessons/day34_imaginary_time_evolution.py` |
 
 ## 命名慣例
 
