@@ -67,6 +67,7 @@ python lessons/day01_qubit_superposition.py
 | 34 | Imaginary-time ground-state filtering 與 variational QITE | `lessons/day34_imaginary_time_evolution.py` |
 | 35 | Thermofield double、Gibbs thermal state 與 purification | `lessons/day35_thermofield_double.py` |
 | 36 | Variational free-energy minimization、relative entropy 與 thermal-state learning | `lessons/day36_variational_free_energy.py` |
+| 37 | Quantum Boltzmann machine、Ising energy model 與 correlated sampling | `lessons/day37_quantum_boltzmann_machine.py` |
 
 ## 命名慣例
 
