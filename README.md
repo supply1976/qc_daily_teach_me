@@ -68,6 +68,7 @@ python lessons/day01_qubit_superposition.py
 | 35 | Thermofield double、Gibbs thermal state 與 purification | `lessons/day35_thermofield_double.py` |
 | 36 | Variational free-energy minimization、relative entropy 與 thermal-state learning | `lessons/day36_variational_free_energy.py` |
 | 37 | Quantum Boltzmann machine、Ising energy model 與 correlated sampling | `lessons/day37_quantum_boltzmann_machine.py` |
+| 38 | Transverse-field QBM、non-commuting Gibbs state 與 imaginary-time Trotterization | `lessons/day38_transverse_field_qbm.py` |
 
 ## 命名慣例
 
