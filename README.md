@@ -71,6 +71,7 @@ python lessons/day01_qubit_superposition.py
 | 38 | Transverse-field QBM、non-commuting Gibbs state 與 imaginary-time Trotterization | `lessons/day38_transverse_field_qbm.py` |
 | 39 | Non-commuting QBM training、quantum moment matching 與 multi-basis identifiability | `lessons/day39_noncommuting_qbm_training.py` |
 | 40 | Shot-based QBM training、multi-basis measurement 與 stochastic gradients | `lessons/day40_shot_based_qbm_training.py` |
+| 41 | Readout-error mitigation、calibration matrix 與 bias–variance tradeoff | `lessons/day41_readout_error_mitigation.py` |
 
 ## 命名慣例
 
