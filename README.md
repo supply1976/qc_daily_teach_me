@@ -73,6 +73,7 @@ python lessons/day01_qubit_superposition.py
 | 40 | Shot-based QBM training、multi-basis measurement 與 stochastic gradients | `lessons/day40_shot_based_qbm_training.py` |
 | 41 | Readout-error mitigation、calibration matrix 與 bias–variance tradeoff | `lessons/day41_readout_error_mitigation.py` |
 | 42 | Zero-noise extrapolation、unitary folding 與 mitigation sampling overhead | `lessons/day42_zero_noise_extrapolation.py` |
+| 43 | Probabilistic error cancellation、quasiprobability 與 exponential sampling cost | `lessons/day43_probabilistic_error_cancellation.py` |
 
 ## 命名慣例
 
