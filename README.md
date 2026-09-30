@@ -74,6 +74,7 @@ python lessons/day01_qubit_superposition.py
 | 41 | Readout-error mitigation、calibration matrix 與 bias–variance tradeoff | `lessons/day41_readout_error_mitigation.py` |
 | 42 | Zero-noise extrapolation、unitary folding 與 mitigation sampling overhead | `lessons/day42_zero_noise_extrapolation.py` |
 | 43 | Probabilistic error cancellation、quasiprobability 與 exponential sampling cost | `lessons/day43_probabilistic_error_cancellation.py` |
+| 44 | Symmetry verification、Bell-parity postselection 與 undetectable errors | `lessons/day44_symmetry_verification.py` |
 
 ## 命名慣例
 
