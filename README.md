@@ -76,6 +76,7 @@ python lessons/day01_qubit_superposition.py
 | 43 | Probabilistic error cancellation、quasiprobability 與 exponential sampling cost | `lessons/day43_probabilistic_error_cancellation.py` |
 | 44 | Symmetry verification、Bell-parity postselection 與 undetectable errors | `lessons/day44_symmetry_verification.py` |
 | 45 | Virtual distillation、density-matrix powers 與 coherent-error floor | `lessons/day45_virtual_distillation.py` |
+| 46 | Pauli twirling、randomized compiling 與 coherent-error accumulation | `lessons/day46_pauli_twirling.py` |
 
 ## 命名慣例
 
