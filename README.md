@@ -78,6 +78,7 @@ python lessons/day01_qubit_superposition.py
 | 45 | Virtual distillation、density-matrix powers 與 coherent-error floor | `lessons/day45_virtual_distillation.py` |
 | 46 | Pauli twirling、randomized compiling 與 coherent-error accumulation | `lessons/day46_pauli_twirling.py` |
 | 47 | Randomized benchmarking、Clifford twirling 與 average gate fidelity | `lessons/day47_randomized_benchmarking.py` |
+| 48 | Interleaved randomized benchmarking、decay-rate ratio 與 target-gate fidelity | `lessons/day48_interleaved_randomized_benchmarking.py` |
 
 ## 命名慣例
 
