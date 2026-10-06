@@ -80,6 +80,7 @@ python lessons/day01_qubit_superposition.py
 | 47 | Randomized benchmarking、Clifford twirling 與 average gate fidelity | `lessons/day47_randomized_benchmarking.py` |
 | 48 | Interleaved randomized benchmarking、decay-rate ratio 與 target-gate fidelity | `lessons/day48_interleaved_randomized_benchmarking.py` |
 | 49 | Noise unitarity、Pauli transfer matrix 與 coherent–stochastic error diagnosis | `lessons/day49_noise_unitarity.py` |
+| 50 | Quantum process tomography、affine Bloch map 與 noise-channel reconstruction | `lessons/day50_process_tomography.py` |
 
 ## 命名慣例
 
