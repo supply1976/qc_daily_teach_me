@@ -82,6 +82,7 @@ python lessons/day01_qubit_superposition.py
 | 49 | Noise unitarity、Pauli transfer matrix 與 coherent–stochastic error diagnosis | `lessons/day49_noise_unitarity.py` |
 | 50 | Quantum process tomography、affine Bloch map 與 noise-channel reconstruction | `lessons/day50_process_tomography.py` |
 | 51 | CPTP projection、Choi physicality 與 constrained process tomography | `lessons/day51_cptp_projection.py` |
+| 52 | Gate-set tomography、SPAM bias 與 gauge ambiguity | `lessons/day52_gate_set_tomography_gauge.py` |
 
 ## 命名慣例
 
