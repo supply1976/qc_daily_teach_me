@@ -84,6 +84,7 @@ python lessons/day01_qubit_superposition.py
 | 51 | CPTP projection、Choi physicality 與 constrained process tomography | `lessons/day51_cptp_projection.py` |
 | 52 | Gate-set tomography、SPAM bias 與 gauge ambiguity | `lessons/day52_gate_set_tomography_gauge.py` |
 | 53 | Long-sequence GST、coherent-error amplification 與 optimal germ length | `lessons/day53_long_sequence_gst.py` |
+| 54 | Robust phase estimation、多尺度 phase unwrapping 與 alias resolution | `lessons/day54_robust_phase_estimation.py` |
 
 ## 命名慣例
 
