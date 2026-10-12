@@ -86,6 +86,7 @@ python lessons/day01_qubit_superposition.py
 | 53 | Long-sequence GST、coherent-error amplification 與 optimal germ length | `lessons/day53_long_sequence_gst.py` |
 | 54 | Robust phase estimation、多尺度 phase unwrapping 與 alias resolution | `lessons/day54_robust_phase_estimation.py` |
 | 55 | Bayesian quantum phase estimation、posterior update 與 multimodal aliasing | `lessons/day55_bayesian_phase_estimation.py` |
+| 56 | Bayesian experimental design、expected information gain 與 adaptive calibration | `lessons/day56_bayesian_experiment_design.py` |
 
 ## 命名慣例
 
