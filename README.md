@@ -88,6 +88,7 @@ python lessons/day01_qubit_superposition.py
 | 55 | Bayesian quantum phase estimation、posterior update 與 multimodal aliasing | `lessons/day55_bayesian_phase_estimation.py` |
 | 56 | Bayesian experimental design、expected information gain 與 adaptive calibration | `lessons/day56_bayesian_experiment_design.py` |
 | 57 | Fisher information、Cramér–Rao bound 與 resource-aware optimal sequence length | `lessons/day57_fisher_information.py` |
+| 58 | Fisher information matrix、multiparameter identifiability 與 D-optimal Ramsey design | `lessons/day58_fisher_information_matrix.py` |
 
 ## 命名慣例
 
