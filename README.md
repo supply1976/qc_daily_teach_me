@@ -90,6 +90,7 @@ python lessons/day01_qubit_superposition.py
 | 57 | Fisher information、Cramér–Rao bound 與 resource-aware optimal sequence length | `lessons/day57_fisher_information.py` |
 | 58 | Fisher information matrix、multiparameter identifiability 與 D-optimal Ramsey design | `lessons/day58_fisher_information_matrix.py` |
 | 59 | Multiparameter quantum estimation、measurement incompatibility 與 precision tradeoff | `lessons/day59_multiparameter_incompatibility.py` |
+| 60 | SIC-POVM、Naimark dilation 與單設定 qubit tomography | `lessons/day60_sic_povm.py` |
 
 ## 命名慣例
 
