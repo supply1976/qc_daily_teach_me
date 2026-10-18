@@ -92,6 +92,7 @@ python lessons/day01_qubit_superposition.py
 | 59 | Multiparameter quantum estimation、measurement incompatibility 與 precision tradeoff | `lessons/day59_multiparameter_incompatibility.py` |
 | 60 | SIC-POVM、Naimark dilation 與單設定 qubit tomography | `lessons/day60_sic_povm.py` |
 | 61 | Maximum-likelihood tomography、physicality constraint 與 cross-entropy fitting | `lessons/day61_maximum_likelihood_tomography.py` |
+| 62 | Bayesian quantum tomography、credible intervals 與 posterior prediction | `lessons/day62_bayesian_tomography.py` |
 
 ## 命名慣例
 
