@@ -94,6 +94,7 @@ python lessons/day01_qubit_superposition.py
 | 61 | Maximum-likelihood tomography、physicality constraint 與 cross-entropy fitting | `lessons/day61_maximum_likelihood_tomography.py` |
 | 62 | Bayesian quantum tomography、credible intervals 與 posterior prediction | `lessons/day62_bayesian_tomography.py` |
 | 63 | Sequential Monte Carlo、ESS-triggered resampling 與 Metropolis rejuvenation | `lessons/day63_sequential_monte_carlo.py` |
+| 64 | Adaptive Bayesian tomography、expected information gain 與量測軸設計 | `lessons/day64_adaptive_tomography.py` |
 
 ## 命名慣例
 
