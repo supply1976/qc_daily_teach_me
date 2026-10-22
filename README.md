@@ -96,6 +96,7 @@ python lessons/day01_qubit_superposition.py
 | 63 | Sequential Monte Carlo、ESS-triggered resampling 與 Metropolis rejuvenation | `lessons/day63_sequential_monte_carlo.py` |
 | 64 | Adaptive Bayesian tomography、expected information gain 與量測軸設計 | `lessons/day64_adaptive_tomography.py` |
 | 65 | Classical shadows、隨機 Pauli measurements 與多 observable 預測 | `lessons/day65_classical_shadows.py` |
+| 66 | Locally biased classical shadows、Hamiltonian-aware basis allocation 與 variance reduction | `lessons/day66_locally_biased_shadows.py` |
 
 ## 命名慣例
 
