@@ -97,6 +97,7 @@ python lessons/day01_qubit_superposition.py
 | 64 | Adaptive Bayesian tomography、expected information gain 與量測軸設計 | `lessons/day64_adaptive_tomography.py` |
 | 65 | Classical shadows、隨機 Pauli measurements 與多 observable 預測 | `lessons/day65_classical_shadows.py` |
 | 66 | Locally biased classical shadows、Hamiltonian-aware basis allocation 與 variance reduction | `lessons/day66_locally_biased_shadows.py` |
+| 67 | Derandomized classical shadows、greedy Pauli coverage 與 deterministic measurement scheduling | `lessons/day67_derandomized_shadows.py` |
 
 ## 命名慣例
 
