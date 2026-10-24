@@ -98,6 +98,7 @@ python lessons/day01_qubit_superposition.py
 | 65 | Classical shadows、隨機 Pauli measurements 與多 observable 預測 | `lessons/day65_classical_shadows.py` |
 | 66 | Locally biased classical shadows、Hamiltonian-aware basis allocation 與 variance reduction | `lessons/day66_locally_biased_shadows.py` |
 | 67 | Derandomized classical shadows、greedy Pauli coverage 與 deterministic measurement scheduling | `lessons/day67_derandomized_shadows.py` |
+| 68 | Classical-shadow U-statistics、purity 與 Rényi-2 entropy | `lessons/day68_shadow_purity_u_statistic.py` |
 
 ## 命名慣例
 
