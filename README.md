@@ -100,6 +100,7 @@ python lessons/day01_qubit_superposition.py
 | 67 | Derandomized classical shadows、greedy Pauli coverage 與 deterministic measurement scheduling | `lessons/day67_derandomized_shadows.py` |
 | 68 | Classical-shadow U-statistics、purity 與 Rényi-2 entropy | `lessons/day68_shadow_purity_u_statistic.py` |
 | 69 | Subsystem classical shadows、Rényi-2 entanglement entropy 與 symmetry averaging | `lessons/day69_shadow_entanglement_entropy.py` |
+| 70 | Mixed-state entanglement、PPT criterion 與 classical-shadow Bell witness | `lessons/day70_shadow_entanglement_witness.py` |
 
 ## 命名慣例
 
