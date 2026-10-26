@@ -4,15 +4,10 @@ from itertools import product
 
 import numpy as np
 from qiskit import QuantumCircuit
-from qiskit.quantum_info import DensityMatrix, Pauli, Statevector
+from qiskit.quantum_info import DensityMatrix, Statevector
 
 
 PAULI_LABELS = ("X", "Y", "Z")
-PAULIS = np.array([
-    Pauli("X").to_matrix(),
-    Pauli("Y").to_matrix(),
-    Pauli("Z").to_matrix(),
-])
 
 
 def werner_state(visibility):
