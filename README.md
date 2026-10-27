@@ -101,6 +101,7 @@ python lessons/day01_qubit_superposition.py
 | 68 | Classical-shadow U-statistics、purity 與 Rényi-2 entropy | `lessons/day68_shadow_purity_u_statistic.py` |
 | 69 | Subsystem classical shadows、Rényi-2 entanglement entropy 與 symmetry averaging | `lessons/day69_shadow_entanglement_entropy.py` |
 | 70 | Mixed-state entanglement、PPT criterion 與 classical-shadow Bell witness | `lessons/day70_shadow_entanglement_witness.py` |
+| 71 | Entanglement purification、bilateral CNOT 與 fidelity–yield tradeoff | `lessons/day71_entanglement_purification.py` |
 
 ## 命名慣例
 
