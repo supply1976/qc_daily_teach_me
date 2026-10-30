@@ -104,6 +104,7 @@ python lessons/day01_qubit_superposition.py
 | 71 | Entanglement purification、bilateral CNOT 與 fidelity–yield tradeoff | `lessons/day71_entanglement_purification.py` |
 | 72 | Noisy entanglement purification、fidelity ceiling 與 purification window | `lessons/day72_noisy_entanglement_purification.py` |
 | 73 | Entanglement swapping、Bell-measurement feed-forward 與 repeater correlation decay | `lessons/day73_entanglement_swapping.py` |
+| 74 | Heralded repeater links、quantum-memory decoherence 與 cutoff trade-off | `lessons/day74_repeater_memory_cutoff.py` |
 
 ## 命名慣例
 
