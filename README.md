@@ -106,6 +106,7 @@ python lessons/day01_qubit_superposition.py
 | 73 | Entanglement swapping、Bell-measurement feed-forward 與 repeater correlation decay | `lessons/day73_entanglement_swapping.py` |
 | 74 | Heralded repeater links、quantum-memory decoherence 與 cutoff trade-off | `lessons/day74_repeater_memory_cutoff.py` |
 | 75 | Hashing bound、coherent information 與 distillable-entanglement rate | `lessons/day75_distillable_entanglement_rate.py` |
+| 76 | Quantum erasure channel、coherent information 與 no-cloning capacity threshold | `lessons/day76_quantum_erasure_channel.py` |
 
 ## 命名慣例
 
