@@ -108,6 +108,7 @@ python lessons/day01_qubit_superposition.py
 | 75 | Hashing bound、coherent information 與 distillable-entanglement rate | `lessons/day75_distillable_entanglement_rate.py` |
 | 76 | Quantum erasure channel、coherent information 與 no-cloning capacity threshold | `lessons/day76_quantum_erasure_channel.py` |
 | 77 | Three-qubit bit-flip code、stabilizer syndrome 與 coherent recovery | `lessons/day77_three_qubit_bit_flip_code.py` |
+| 78 | Three-qubit phase-flip code、Hadamard basis change 與 X-type stabilizers | `lessons/day78_three_qubit_phase_flip_code.py` |
 
 ## 命名慣例
 
