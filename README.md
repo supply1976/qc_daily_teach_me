@@ -110,6 +110,7 @@ python lessons/day01_qubit_superposition.py
 | 77 | Three-qubit bit-flip code、stabilizer syndrome 與 coherent recovery | `lessons/day77_three_qubit_bit_flip_code.py` |
 | 78 | Three-qubit phase-flip code、Hadamard basis change 與 X-type stabilizers | `lessons/day78_three_qubit_phase_flip_code.py` |
 | 79 | Nine-qubit Shor code、degenerate syndromes 與任意單一 Pauli error correction | `lessons/day79_shor_code.py` |
+| 80 | Five-qubit perfect code、quantum Hamming bound 與 perfect syndrome packing | `lessons/day80_five_qubit_perfect_code.py` |
 
 ## 命名慣例
 
