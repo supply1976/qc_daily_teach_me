@@ -111,6 +111,7 @@ python lessons/day01_qubit_superposition.py
 | 78 | Three-qubit phase-flip code、Hadamard basis change 與 X-type stabilizers | `lessons/day78_three_qubit_phase_flip_code.py` |
 | 79 | Nine-qubit Shor code、degenerate syndromes 與任意單一 Pauli error correction | `lessons/day79_shor_code.py` |
 | 80 | Five-qubit perfect code、quantum Hamming bound 與 perfect syndrome packing | `lessons/day80_five_qubit_perfect_code.py` |
+| 81 | Knill–Laflamme condition、error subspace orthogonality 與 correctable Kraus span | `lessons/day81_knill_laflamme_condition.py` |
 
 ## 命名慣例
 
