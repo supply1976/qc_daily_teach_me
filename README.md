@@ -112,6 +112,7 @@ python lessons/day01_qubit_superposition.py
 | 79 | Nine-qubit Shor code、degenerate syndromes 與任意單一 Pauli error correction | `lessons/day79_shor_code.py` |
 | 80 | Five-qubit perfect code、quantum Hamming bound 與 perfect syndrome packing | `lessons/day80_five_qubit_perfect_code.py` |
 | 81 | Knill–Laflamme condition、error subspace orthogonality 與 correctable Kraus span | `lessons/day81_knill_laflamme_condition.py` |
+| 82 | Logical amplitude damping、entanglement fidelity 與 first-order error suppression | `lessons/day82_logical_amplitude_damping.py` |
 
 ## 命名慣例
 
