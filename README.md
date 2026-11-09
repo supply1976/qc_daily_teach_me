@@ -114,6 +114,7 @@ python lessons/day01_qubit_superposition.py
 | 81 | Knill–Laflamme condition、error subspace orthogonality 與 correctable Kraus span | `lessons/day81_knill_laflamme_condition.py` |
 | 82 | Logical amplitude damping、entanglement fidelity 與 first-order error suppression | `lessons/day82_logical_amplitude_damping.py` |
 | 83 | Noisy syndrome measurement、多輪多數決與 fault-tolerant decoding 的入口 | `lessons/day83_repeated_syndrome_measurement.py` |
+| 84 | Space-time syndrome decoding、hidden Markov model 與 Viterbi inference | `lessons/day84_spacetime_viterbi_decoder.py` |
 
 ## 命名慣例
 
