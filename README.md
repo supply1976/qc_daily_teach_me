@@ -116,6 +116,7 @@ python lessons/day01_qubit_superposition.py
 | 83 | Noisy syndrome measurement、多輪多數決與 fault-tolerant decoding 的入口 | `lessons/day83_repeated_syndrome_measurement.py` |
 | 84 | Space-time syndrome decoding、hidden Markov model 與 Viterbi inference | `lessons/day84_spacetime_viterbi_decoder.py` |
 | 85 | Bayesian syndrome filtering、forward–backward smoothing 與 posterior uncertainty | `lessons/day85_bayesian_syndrome_smoothing.py` |
+| 86 | Baum–Welch EM、syndrome-only noise calibration 與 latent-variable learning | `lessons/day86_em_noise_learning.py` |
 
 ## 命名慣例
 
