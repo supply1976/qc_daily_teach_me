@@ -118,6 +118,7 @@ python lessons/day01_qubit_superposition.py
 | 85 | Bayesian syndrome filtering、forward–backward smoothing 與 posterior uncertainty | `lessons/day85_bayesian_syndrome_smoothing.py` |
 | 86 | Baum–Welch EM、syndrome-only noise calibration 與 latent-variable learning | `lessons/day86_em_noise_learning.py` |
 | 87 | Heterogeneous hardware noise、vector EM calibration 與 model mismatch | `lessons/day87_heterogeneous_noise_em.py` |
+| 88 | Correlated burst errors、factorized-prior failure 與 syndrome likelihood fitting | `lessons/day88_correlated_burst_noise.py` |
 
 ## 命名慣例
 
