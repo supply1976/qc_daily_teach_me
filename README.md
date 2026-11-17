@@ -122,6 +122,7 @@ python lessons/day01_qubit_superposition.py
 | 89 | Space-time detection events、spatial/temporal signatures 與 matching-graph weights | `lessons/day89_spacetime_detection_events.py` |
 | 90 | Minimum-weight matching、bitmask dynamic programming 與 greedy-decoder failure | `lessons/day90_minimum_weight_matching.py` |
 | 91 | Repetition-code distance scaling、logical error suppression 與 threshold | `lessons/day91_repetition_code_distance_scaling.py` |
+| 92 | Rare-event importance sampling、likelihood ratio 與 logical error estimation | `lessons/day92_rare_event_importance_sampling.py` |
 
 ## 命名慣例
 
