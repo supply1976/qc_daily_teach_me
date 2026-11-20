@@ -125,6 +125,7 @@ python lessons/day01_qubit_superposition.py
 | 92 | Rare-event importance sampling、likelihood ratio 與 logical error estimation | `lessons/day92_rare_event_importance_sampling.py` |
 | 93 | Adaptive importance sampling、weighted cross entropy 與 learned rare-event proposal | `lessons/day93_adaptive_importance_sampling.py` |
 | 94 | Mixture importance sampling、multimodal logical failures 與 defensive mode coverage | `lessons/day94_mixture_importance_sampling.py` |
+| 95 | Autoregressive error generator、weighted Markov learning 與 correlated rare events | `lessons/day95_autoregressive_error_generator.py` |
 
 ## 命名慣例
 
