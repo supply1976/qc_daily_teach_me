@@ -127,6 +127,7 @@ python lessons/day01_qubit_superposition.py
 | 94 | Mixture importance sampling、multimodal logical failures 與 defensive mode coverage | `lessons/day94_mixture_importance_sampling.py` |
 | 95 | Autoregressive error generator、weighted Markov learning 與 correlated rare events | `lessons/day95_autoregressive_error_generator.py` |
 | 96 | Noise-aware maximum-likelihood decoding、correlated priors 與 structured-error correction | `lessons/day96_noise_aware_ml_decoder.py` |
+| 97 | Bayesian posterior-predictive decoding、Beta noise calibration 與 parameter uncertainty | `lessons/day97_bayesian_noise_decoder.py` |
 
 ## 命名慣例
 
