@@ -128,6 +128,7 @@ python lessons/day01_qubit_superposition.py
 | 95 | Autoregressive error generator、weighted Markov learning 與 correlated rare events | `lessons/day95_autoregressive_error_generator.py` |
 | 96 | Noise-aware maximum-likelihood decoding、correlated priors 與 structured-error correction | `lessons/day96_noise_aware_ml_decoder.py` |
 | 97 | Bayesian posterior-predictive decoding、Beta noise calibration 與 parameter uncertainty | `lessons/day97_bayesian_noise_decoder.py` |
+| 98 | Decision-aware sequential calibration、posterior confidence 與 decoder stopping rule | `lessons/day98_decision_aware_calibration.py` |
 
 ## 命名慣例
 
