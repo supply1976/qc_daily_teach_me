@@ -132,6 +132,7 @@ python lessons/day01_qubit_superposition.py
 | 99 | Decision-focused Bayesian experiment design、Beta–Binomial information gain 與 calibration cost | `lessons/day99_decision_focused_experiment_design.py` |
 | 100 | Soft logical decoding、log-likelihood ratio 與 selective uncertainty control | `lessons/day100_soft_decoding_logical_llr.py` |
 | 101 | Decoder confidence calibration、reliability diagram 與 temperature scaling | `lessons/day101_decoder_confidence_calibration.py` |
+| 102 | Split conformal decoding、set-valued corrections 與 finite-sample coverage | `lessons/day102_conformal_decoder_sets.py` |
 
 ## 命名慣例
 
